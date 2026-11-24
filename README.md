@@ -52,13 +52,6 @@ Anxiety was the only predictor reported as statistically significant at the 0.05
 
 For an example participant profile defined in the original analysis, the complementary log-log model produced a predicted probability of approximately **48.75%**. This value should be interpreted only as a model output for this sample—not as a clinical diagnostic probability.
 
-## Reproducibility
-
-The original class project contained code as screenshots rather than separate `.R` and `.sas` source files. The code in this repository has therefore been **carefully reconstructed from those screenshots and the reported analysis**.
-
-The reconstructed scripts preserve the original modeling approach while standardizing file paths, formatting, and obvious OCR/screenshot transcription errors.
-
-Because the original participant-level dataset is not included, the scripts are provided primarily to demonstrate the analytical workflow and are not expected to run unchanged without the source data.
 
 ## Repository Structure
 
